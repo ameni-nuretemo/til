@@ -5,3 +5,4 @@ These are some quick notes gathered during my daily studies.
 - [Linux](#linux)
 
 ## Linux 
+- add sudo 
