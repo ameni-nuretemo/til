@@ -1,5 +1,5 @@
-# til
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
+# TIL
+These are some quick notes gathered during my daily studies.
 
 ## Categories
 - [Linux](#linux)
