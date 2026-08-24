@@ -1,4 +1,4 @@
 ```bash
 su -
-usermod -aG sudo kiya
+usermod -aG sudo *user*
 ```
