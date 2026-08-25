@@ -7,6 +7,7 @@ These are some quick notes gathered during my daily studies.
 - [Linux](#linux)
 - [AI](#AI)
 - [Server](#Server)
+- [rule](#rule)
 
 ## Linux 
 - [add sudo](Linux/add-sudo.md) 
@@ -17,3 +18,6 @@ These are some quick notes gathered during my daily studies.
 
 ## Server
 - [AWSとは](Server/what-AWS.md)
+
+## rule
+- [日記のルール](Journal-rule.md)
