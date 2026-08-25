@@ -20,4 +20,4 @@ These are some quick notes gathered during my daily studies.
 - [AWSとは](Server/what-AWS.md)
 
 ## rule
-- [日記のルール](Journal-rule.md)
+- [日記のルール](rule/Journal-rule.md)
