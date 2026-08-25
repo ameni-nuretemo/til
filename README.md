@@ -11,6 +11,7 @@ These are some quick notes gathered during my daily studies.
 ## Linux 
 - [add sudo](Linux/add-sudo.md) 
 - [change dir to Eng](Linux/dir-to-eng.md)
+- [date command](Linux/date-sh.md)
 
 ## AI
 
