@@ -24,4 +24,4 @@ These are some quick notes gathered during my daily studies.
 - [日記のルール](rule/Journal-rule.md)
 
 ## Hugo
-- [ローカルHugo起動](Hugo/start-Hugo.md)
+- [ローカルHugo起動](Hugo/local-Hugo-start.md)
