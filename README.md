@@ -8,6 +8,7 @@ These are some quick notes gathered during my daily studies.
 - [AI](#AI)
 - [Server](#Server)
 - [rule](#rule)
+- [Hugo](#Hugo)
 
 ## Linux 
 - [add sudo](Linux/add-sudo.md) 
@@ -21,3 +22,6 @@ These are some quick notes gathered during my daily studies.
 
 ## rule
 - [日記のルール](rule/Journal-rule.md)
+
+## Hugo
+- [ローカルHugo起動](Hugo/start-Hugo.md)
