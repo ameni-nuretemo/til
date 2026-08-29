@@ -9,6 +9,7 @@ These are some quick notes gathered during my daily studies.
 - [Server](#Server)
 - [rule](#rule)
 - [Hugo](#Hugo)
+- [Git](#Git)
 
 ## Linux 
 - [add sudo](Linux/add-sudo.md) 
@@ -25,3 +26,6 @@ These are some quick notes gathered during my daily studies.
 
 ## Hugo
 - [ローカルHugo起動](Hugo/local-Hugo-start.md)
+
+## Git
+- [Gitの基本操作](Git/base.md)
